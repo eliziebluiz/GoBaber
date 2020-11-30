@@ -7,7 +7,7 @@ import {Container} from './styles';
 export default () => {
   return (
     <Container>
-      <Text>Elizieb Luiz</Text>
+      <Text>Preload</Text>
     </Container>
   );
 };
